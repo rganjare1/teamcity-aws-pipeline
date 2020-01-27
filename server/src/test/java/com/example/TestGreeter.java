@@ -32,6 +32,5 @@ public class TestGreeter {
     System.out.println("**** Executing second unit Test case ****");
     assertThat(greeter.greet(someone).length(), is(greaterThan(someone.length())));
 	System.out.println("**** second unit Test case passed****");
-	System.out.println("**** second unit Test case passed****");
   }
 }

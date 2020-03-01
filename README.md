@@ -1,3 +1,6 @@
 # maven-project
 
-Simple Maven Project
+Simple Maven Project 
+commit1
+commit 2
+commit 3
